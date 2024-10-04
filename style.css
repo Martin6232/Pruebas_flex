@@ -1,0 +1,36 @@
+.row {
+
+    height: 50px;
+    margin-bottom: 20px;
+    display: flex;
+    width: 100%;
+    flex-flow: wrap ;
+    padding: 5px;
+}
+
+.col {
+    background-color: #609f9f;
+    height: 25px;
+    color: azure;
+    margin-left: 20px;
+    padding: 15px;
+    flex: 1;
+}
+
+.col2 {
+    background-color: #609f9f;
+    height: 25px;
+    color: azure;
+    margin-left: 20px;
+    padding: 15px;
+    flex: 2;
+}
+
+.col3 {
+    background-color: #609f9f;
+    height: 25px;
+    color: azure;
+    margin-left: 20px;
+    padding: 15px;
+    flex: 3;
+}
