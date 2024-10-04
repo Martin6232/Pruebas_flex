@@ -1,0 +1,15 @@
+body {
+    padding: 50px;
+}
+
+.row {
+    background-color: #17a2b8;
+    height: 200px;
+    width: 800px;
+}
+
+.row2 {
+    height: 300px;
+    width: 800px;
+    
+}
